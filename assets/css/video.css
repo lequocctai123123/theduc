@@ -1,0 +1,10 @@
+.projects{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.projects__description{
+    margin-top: 50px;
+    font-size: 20px;
+    max-width: 1000px;
+}
